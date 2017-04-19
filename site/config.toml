@@ -84,13 +84,13 @@ theme = "hugo-elate-theme"
       subtitle = "Branding"
 
     [[params.work.row]]
-      img = "gd_milos.png"
+      img = "gd_milos.jpg"
       alt = "Image2"
       title = "Miloš Janoušek - Mapy labyrintu"
       subtitle = "Design"
 
     [[params.work.row]]
-      img = "gd_appka.png"
+      img = "gd_appka.jpg"
       alt = "Image3"
       title = "iOS App Graphic Design"
       subtitle = "Design"
@@ -108,7 +108,7 @@ theme = "hugo-elate-theme"
       subtitle = "Design"
 
     [[params.work.row]]
-      img = "gd_plagat-rieka.png"
+      img = "gd_plagat-rieka.jpg"
       alt = "Image3"
       title = "iOS App Graphic Design"
       subtitle = "Design"
