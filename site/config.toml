@@ -98,20 +98,20 @@ theme = "hugo-elate-theme"
     [[params.work.row]]
       img = "gd_plagat.jpg"
       alt = "Image3"
-      title = "iOS App Graphic Design"
-      subtitle = "Design"
+      title = "Zaplavenie"
+      subtitle = "Poster Design"
 
     [[params.work.row]]
       img = "gd_plagat-izrafel.jpg"
       alt = "Image3"
-      title = "iOS App Graphic Design"
-      subtitle = "Design"
+      title = "Izrafel alebo cúvanie do pamäti"
+      subtitle = "Poster Design"
 
     [[params.work.row]]
       img = "gd_plagat-rieka.jpg"
       alt = "Image3"
-      title = "iOS App Graphic Design"
-      subtitle = "Design"
+      title = "Všade tá rieka..!"
+      subtitle = "Poster Design"
 
   # Testimonials section
   [params.testimonials]
